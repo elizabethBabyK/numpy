@@ -1,6 +1,6 @@
-correct the changes as required
-# <a href="https://numpy.org/"><img alt="NumPy" src="/branding/logo/primary/numpylogo.svg" height="60"></a>
-
+changes made as follows
+change #1
+change #2
 <!--[![Azure Pipelines](https://dev.azure.com/numpy/numpy/_apis/build/status/numpy.numpy?branchName=main)](-->
 <!--https://dev.azure.com/numpy/numpy/_build/latest?definitionId=1?branchName=main)-->
 <!--[![Actions build_test](https://github.com/numpy/numpy/actions/workflows/build_test.yml/badge.svg)](-->
